@@ -21,3 +21,8 @@ Hi there! I'm a passionate Full Stack Developer focused on building robust and s
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushka-gupta-616515329)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/LeaderPretend6969/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anushkagupta200615@gmail.com)
+
+## 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anushkagupta200615-jpg&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anushkagupta200615-jpg&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anushkagupta200615-jpg&layout=compact&theme=radical)
