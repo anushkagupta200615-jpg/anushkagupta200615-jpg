@@ -28,4 +28,4 @@ Hi there! I'm a passionate Full Stack Developer focused on building robust and s
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anushkagupta200615-jpg&layout=compact&theme=radical&v=4)
 
 ## 📈 Activity Overview:
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anushkagupta200615-jpg&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub Contribution Graph](https://ghchart.rshah.org/anushkagupta200615-jpg)
