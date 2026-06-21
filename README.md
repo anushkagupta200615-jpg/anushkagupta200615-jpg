@@ -27,9 +27,3 @@ Hi there! I'm a passionate Full Stack Developer focused on building robust and s
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anushkagupta200615-jpg&theme=radical&v=5)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anushkagupta200615-jpg&layout=compact&theme=radical&v=4)
 
-## 🐍 Contribution Snake:
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anushkagupta200615-jpg/anushkagupta200615-jpg/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anushkagupta200615-jpg/anushkagupta200615-jpg/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anushkagupta200615-jpg/anushkagupta200615-jpg/output/github-contribution-grid-snake.svg">
-</picture>
