@@ -24,6 +24,5 @@ Hi there! I'm a passionate Full Stack Developer focused on building robust and s
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=anushkagupta200615-jpg&show_icons=true&theme=radical&cache_seconds=1800&random=789&v=5)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anushkagupta200615-jpg&theme=radical&count_private=true&cache_seconds=1800&random=456)
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=anushkagupta200615-jpg&layout=compact&theme=radical&cache_seconds=1800&random=456&v=2)
 
