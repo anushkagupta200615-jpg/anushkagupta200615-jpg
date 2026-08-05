@@ -27,5 +27,4 @@ Hi there! I'm a passionate Full Stack Developer focused on building robust and s
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anushkagupta200615-jpg&theme=radical&count_private=true&cache_seconds=1800&random=902)
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=anushkagupta200615-jpg&layout=compact&theme=radical&cache_seconds=1800&random=903&v=3)
 
-![Contributions Calendar](github-metrics-isocalendar.svg)
 ![Solar System Top Languages](https://stats.pphat.top/languages?username=anushkagupta200615-jpg)
