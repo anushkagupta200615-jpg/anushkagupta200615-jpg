@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Hi there! I'm a passionate Full Stack Developer focused on building robust and scalable applications. I enjoy working across the stack, bridging the gap between engaging frontend experiences and efficient backend architectures. I'm always eager to explore new technologies and solve complex problems.
+  I'm a passionate full-stack architect, active open-source contributor, and relentless problem solver. Whether I'm engineering responsive web experiences with React and TypeScript, optimizing performance-critical algorithms in C/C++, or architecting scalable backend services with Node.js and Python—I build robust systems that actually scale.
 </p>
 
 ## 💻 Tech Stack:
