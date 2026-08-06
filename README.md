@@ -28,7 +28,7 @@
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=anushkagupta200615-jpg&show_icons=true&theme=radical&cache_seconds=1800&random=901&v=6)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anushkagupta200615-jpg&theme=radical&count_private=true&cache_seconds=1800&random=902)
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=anushkagupta200615-jpg&layout=compact&theme=radical&cache_seconds=1800&random=903&v=3)
+
 
 ![Solar System Top Languages](https://stats.pphat.top/languages?username=anushkagupta200615-jpg)
 
