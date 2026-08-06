@@ -36,3 +36,9 @@
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=anushkagupta200615-jpg&layout=compact&theme=radical&cache_seconds=1800&random=903&v=3)
 
 ![Solar System Top Languages](https://stats.pphat.top/languages?username=anushkagupta200615-jpg)
+
+<br>
+
+<p align="center">
+  <b>"Premature optimization is the root of all evil. But shipping a 10MB JavaScript bundle and a database without indexes is the root of my 3 AM pager alerts."</b>
+</p>
