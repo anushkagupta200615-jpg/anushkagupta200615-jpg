@@ -25,9 +25,9 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=anushkagupta200615-jpg&show_icons=true&theme=radical&cache_seconds=1800&random=901&v=6)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anushkagupta200615-jpg&theme=radical&count_private=true&cache_seconds=1800&random=902)
+## 📊 Telemetry
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=anushkagupta200615-jpg&show_icons=true&theme=tokyonight&cache_seconds=1800&random=901&v=6)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anushkagupta200615-jpg&theme=tokyonight&count_private=true&cache_seconds=1800&random=902)
 
 
 ![Solar System Top Languages](https://stats.pphat.top/languages?username=anushkagupta200615-jpg)
