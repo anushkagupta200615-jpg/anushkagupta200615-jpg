@@ -4,9 +4,13 @@
 
 <h2 align="center">Anushka - Full Stack Architect</h2>
 
-> **"I can fix the world But they won't give me the source code"**
+<p align="center">
+  <b>"I can fix the world But they won't give me the source code"</b>
+</p>
 
-Hi there! I'm a passionate Full Stack Developer focused on building robust and scalable applications. I enjoy working across the stack, bridging the gap between engaging frontend experiences and efficient backend architectures. I'm always eager to explore new technologies and solve complex problems.
+<p align="center">
+  Hi there! I'm a passionate Full Stack Developer focused on building robust and scalable applications. I enjoy working across the stack, bridging the gap between engaging frontend experiences and efficient backend architectures. I'm always eager to explore new technologies and solve complex problems.
+</p>
 
 ## 💻 Tech Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
