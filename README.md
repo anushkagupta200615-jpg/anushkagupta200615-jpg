@@ -25,11 +25,6 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushka-gupta-616515329)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/LeaderPretend6969/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anushkagupta200615@gmail.com)
-
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=anushkagupta200615-jpg&show_icons=true&theme=radical&cache_seconds=1800&random=901&v=6)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anushkagupta200615-jpg&theme=radical&count_private=true&cache_seconds=1800&random=902)
@@ -41,4 +36,12 @@
 
 <p align="center">
   <b>"Premature optimization is the root of all evil. But shipping a 10MB JavaScript bundle and a database without indexes is the root of my 3 AM pager alerts."</b>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="mailto:anushkagupta200615@gmail.com"><img src="https://img.shields.io/badge/EMAIL-black?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/anushka-gupta-616515329"><img src="https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.reddit.com/user/LeaderPretend6969/"><img src="https://img.shields.io/badge/REDDIT-black?style=for-the-badge&logo=reddit&logoColor=white"></a>
 </p>
