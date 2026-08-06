@@ -2,6 +2,10 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="100%" alt="Curious Tech Geek">
 
+<h2 align="center">Anushka - Full Stack Architect</h2>
+
+> *"I count bits to save a clock. I don't use valgrind; I know where I left my pointers. But when it's time to ship, I make the Cloud bend to my will."*
+
 Hi there! I'm a passionate Full Stack Developer focused on building robust and scalable applications. I enjoy working across the stack, bridging the gap between engaging frontend experiences and efficient backend architectures. I'm always eager to explore new technologies and solve complex problems.
 
 ## 💻 Tech Stack:
