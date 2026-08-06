@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-![Curious Tech Geek](https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif)
+![Curious Tech Geek](https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif)
 
 Hi there! I'm a passionate Full Stack Developer focused on building robust and scalable applications. I enjoy working across the stack, bridging the gap between engaging frontend experiences and efficient backend architectures. I'm always eager to explore new technologies and solve complex problems.
 
