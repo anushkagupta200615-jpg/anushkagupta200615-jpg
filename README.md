@@ -32,8 +32,7 @@
 
 ## 📊 Telemetry
 <p align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=anushkagupta200615-jpg&show_icons=true&theme=tokyonight&cache_seconds=1800&random=901&v=6" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=anushkagupta200615-jpg&theme=tokyonight&count_private=true" alt="GitHub Streak" />
+  <img src="https://github-stats-extended.vercel.app/api?username=anushkagupta200615-jpg&show_icons=true&theme=tokyonight&cache_seconds=1800&random=901&v=6" alt="GitHub Stats" />
 </p>
 
 
