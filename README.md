@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  I'm a passionate full-stack architect, active open-source contributor, and relentless problem solver. Whether I'm engineering responsive web experiences with React and TypeScript, optimizing performance-critical algorithms in C/C++, or architecting scalable backend services with Node.js and Python—I build robust systems that actually scale.
+  I'm a passionate full-stack architect, active open-source contributor, and relentless problem solver. Whether I'm engineering responsive web experiences with React and TypeScript, optimizing performance-critical algorithms in C/C++, or architecting scalable backend services with Node.js and Python I build robust systems that actually scale.
 </p>
 
 ## 💻 Tech Stack:
