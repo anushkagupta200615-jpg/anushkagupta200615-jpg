@@ -17,24 +17,6 @@
 
 ---
 
-## 🧬 What I Actually Do
-
-```text
-╔══════════════════════════════════════════════════════════╗
-║  git log --oneline --author="Anushka" --merges           ║
-║                                                          ║
-║  feat(kyverno)  → OCI-native apply & test flows          ║
-║  fix(kyverno)   → resourceFilters in cleanup controllers ║
-║  fix(kyverno)   → RBAC assertions for bg-disabled policy ║
-║  feat(cli)      → CEL-only OCI push/pull pipeline        ║
-║  feat(dora)     → startup_timeout watchdog for hung nodes║
-║  fix(dora)      → Zenoh teardown hang: 10s → ~1s         ║
-║  ...and 61 more merged PRs across open source 🚀         ║
-╚══════════════════════════════════════════════════════════╝
-```
-
----
-
 ## 🏆 Open Source Highlights — Top Merged PRs
 
 > **67 merged pull requests** · Active contributor to the CNCF / Kyverno & Dora-rs ecosystems
@@ -51,17 +33,7 @@
 
 ---
 
-## 📊 Contribution Telemetry
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anushkagupta200615-jpg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" height="165"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushkagupta200615-jpg&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anushkagupta200615-jpg&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
-</p>
+## 📊 Contribution Graph
 
 ![Solar System Top Languages](https://stats.pphat.top/languages?username=anushkagupta200615-jpg)
 
