@@ -12,7 +12,7 @@
   I live at the intersection of <em>systems thinking</em> and <em>obsessive craftsmanship</em>.<br>
   I've shipped features into <strong>CNCF production projects</strong> used by thousands of engineers worldwide,<br>
   hunted bugs hiding in kernel-level policy controllers, and built quantum circuit simulators from scratch.<br>
-  My commits don't just pass CI — they <em>make CI better</em>.
+  My commits don't just pass CI , they <em>make CI better</em>.
 </p>
 
 ---
